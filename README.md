@@ -22,6 +22,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=lakshya716&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=lakshya716&icon=4&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
