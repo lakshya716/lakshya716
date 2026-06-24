@@ -1,4 +1,5 @@
-## 👨‍💻 About Me<br><br>🔭 Currently building *Python projects and sharpening my DSA skills for Software Engineering roles*<br><br>👯 🌱 Learning *Python • DSA • SQL • Git & GitHub • OOP*<br><br>⚡ Fun fact: **I love turning ideas into simple Python projects while preparing for tech placements.**
+# 💫 About Me:
+🔭 Currently building *Python projects and sharpening my DSA skills for Software Engineering roles*<br><br>👯 🌱 Learning *Python • DSA • SQL • Git & GitHub • OOP*<br><br>⚡ Fun fact: **I love turning ideas into simple Python projects while preparing for tech placements.**
 
 
 ## 🌐 Socials:
