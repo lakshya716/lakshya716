@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Lakshya Verma 👋</h1>
 
 <h3 align="center">
-Full Stack Developer • IIT Bhubaneswar • DSA Enthusiast
+Software Developer • IIT Bhubaneswar • DSA Enthusiast
 </h3>
 
 <p align="center">
@@ -21,7 +21,7 @@ Full Stack Developer • IIT Bhubaneswar • DSA Enthusiast
 - 📫 Email: **24ce01050@iitbbs.ac.in**
 - 🔗 LinkedIn: **https://linkedin.com/in/lakshya-verma07**
 - 💻 GitHub: **https://github.com/lakshya716**
-- ⚡ LeetCode: **lakshya_716**
+- ⚡ LeetCode: **[lakshya_716](https://leetcode.com/u/lakshya_716/)**
 
 ---
 
@@ -78,17 +78,12 @@ Full Stack Developer • IIT Bhubaneswar • DSA Enthusiast
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=lakshya716&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<p align="center">
+![](https://streak-stats.demolab.com/?user=lakshya716&theme=midnight-purple&hide_border=false)<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lakshya716&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya716&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya716&layout=compact&theme=tokyonight"/>
-
-</p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=lakshya716&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -101,12 +96,6 @@ Full Stack Developer • IIT Bhubaneswar • DSA Enthusiast
 </p>
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
-
----
-
-# 🏅 Certifications
-
-- *(Add completed certifications here as they are earned.)*
 
 ---
 
