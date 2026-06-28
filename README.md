@@ -87,11 +87,6 @@ Software Developer • IIT Bhubaneswar • DSA Enthusiast
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lakshya716&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 # 🏆 Achievements
 
 - 🥉 **3rd Position** — Filmmaking Event (GC'25), IIT Bhubaneswar
