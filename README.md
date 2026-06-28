@@ -22,6 +22,8 @@ Software Developer • IIT Bhubaneswar • DSA Enthusiast
 - 🔗 LinkedIn: **[lakshya-verma07](https://linkedin.com/in/lakshya-verma07/)**
 - 💻 GitHub: **[lakshya716](https://github.com/lakshya716/)**
 - ⚡ LeetCode: **[lakshya_716](https://leetcode.com/u/lakshya_716/)**
+- 🅾  Instagram: **[lakshya._.verma](https://www.instagram.com/lakshya._.verma/)**
+- 𝕏  X: **[lakshya_716](https://x.com/lakshya_716)**
 
 ---
 
