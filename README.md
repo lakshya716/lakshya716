@@ -87,15 +87,8 @@ Software Developer • IIT Bhubaneswar • DSA Enthusiast
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lakshya716&theme=onestar&no-frame=true"/>
-
-</p>
-
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lakshya716&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
