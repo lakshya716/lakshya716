@@ -19,8 +19,8 @@ Software Developer • IIT Bhubaneswar • DSA Enthusiast
 - 🚀 Preparing for Software Engineering placements
 - 📈 Continuously improving problem-solving and development skills
 - 📫 Email: **24ce01050@iitbbs.ac.in**
-- 🔗 LinkedIn: **https://linkedin.com/in/lakshya-verma07**
-- 💻 GitHub: **https://github.com/lakshya716**
+- 🔗 LinkedIn: **[lakshya-verma07](https://linkedin.com/in/lakshya-verma07/)**
+- 💻 GitHub: **[lakshya716](https://github.com/lakshya716/)**
 - ⚡ LeetCode: **[lakshya_716](https://leetcode.com/u/lakshya_716/)**
 
 ---
