@@ -6,7 +6,7 @@ Software Developer • IIT Bhubaneswar • DSA Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+Student+at+IIT+Bhubaneswar;Python+%7C+SQL+%7C+DSA+Learner;Backend+Development+Enthusiast;Building+Projects+%26+Preparing+for+Placements" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+Student+at+IIT+Bhubaneswar;Python+%7C+SQL+%7C+DSA+Learner;Building+Projects+%26+Preparing+for+Placements" />
 </p>
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
