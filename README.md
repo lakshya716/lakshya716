@@ -51,13 +51,12 @@ Software Developer • IIT Bhubaneswar • DSA Enthusiast
 
 # 🚀 Featured Projects
 
-## 🐍 Snake • Water • Gun Game
+## 💸 Personal Expense Tracker
+**Tech Stack:** Python, SQLite
 
-**Tech Stack:** Python
-
-- Built a command-line game using Python.
-- Implemented game logic using conditionals and randomization.
-- Strengthened programming fundamentals and problem-solving skills.
+- Built a command-line expense management application with persistent SQLite database storage.
+- Implemented CRUD operations, category-based filtering, and monthly spending summaries using parameterized SQL queries.
+- Improved application reliability through input validation, exception handling, and structured modular code.
 
 ---
 
